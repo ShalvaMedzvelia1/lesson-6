@@ -5,7 +5,7 @@
     color: #FFFFFF;
     font-size: 48px;
     text-transform: uppercase;
-    display: inline-block;
+    float: right;
     margin-right: 55px;
 }
 body{
@@ -24,7 +24,7 @@ body{
     display:grid;
     -ms-grid-columns: 1fr 20px 1fr;
     grid-template-columns: 1fr 1fr;
-    margin-top:180px;
+    margin-top:260px;
     grid-gap:20px;
 }
 .grid article{
